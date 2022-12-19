@@ -26,10 +26,10 @@ export default function Home() {
           <Box my={30}>
             <Flex direction={{ base: 'column-reverse', sm: "row" }} align={{ base: 'start', sm: "center" }} justify="space-between">
               <Box>
-                <Title order={1} size="24px" weight={400}>Hi, I&apos;m Saikat Sinha</Title>
-                <Text c="#e5e5e5" weight={200} mb="md">I am a Software Engineer at <Box component="span" fw={700}>Walmart Global Tech</Box></Text>
+                <Title order={1} size="24px" weight={400}>Saikat Sinha</Title>
+                <Text c="#e5e5e5" weight={200} mb="md">Software Engineer at <Box component="span" fw={700}>Walmart Global Tech</Box></Text>
                 <Text c="#e5e5e5" maw={520} weight={400} fs="italic">
-                  Frontend Platform, Microfrontends, Serverless, Databases and Data Visualizations are my Jam.
+                  JavaScript, TypeScript, Frontend Platform Engineer, Microfrontends, Serverless, Databases and Data Visualizations are my Jam.
                 </Text>
 
               </Box>
